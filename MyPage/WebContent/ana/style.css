@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+{margin:2. padding: 2;}
+
+p{font-size: 15pt; 
+color: #004080;}
+
+#est{letter-spacing: 0.4em;}
+
+h1#est{letter-spacing: 2.5em;}
+
+h2#est{font-size: 13pt;
+		color: purple;}
+		
+table{ border: 1px solid blue;
+				 width: 100%;}
+				 
+td, th {font-size: 12pt;
+		color: #004083;
+	border: 1px solid #008000;}
+
+li{font-size: 12pt; color: purple;}
